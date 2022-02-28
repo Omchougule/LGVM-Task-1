@@ -1,4 +1,5 @@
 # LGVM-Task-1
-LGVM Web Development Intern
+LetsGrowMore Virtual Internship Program 
+Web Development Intern
 
 A To-Do-List program using HTML, CSS, JavaScript
